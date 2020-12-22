@@ -12,5 +12,10 @@ namespace HelloGIT
         {
             Console.ReadKey();
         }
+
+        int Subtraction(int A, int B)
+        {
+            return A - B;
+        }
     }
 }
