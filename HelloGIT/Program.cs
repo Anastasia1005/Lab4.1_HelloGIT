@@ -35,5 +35,10 @@ namespace HelloGIT
             Console.Write("Введите число A: ");
             return Convert.ToInt32(Console.ReadLine());
         }
+
+        int Addition(int A, int B)
+        {
+            return A + B;
+        }
     }
 }
