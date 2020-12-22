@@ -50,5 +50,10 @@ namespace HelloGIT
         {
             return A * B;
         }
+
+        int Division(int A, int B)
+        {
+            return A / B;
+        }
     }
 }
