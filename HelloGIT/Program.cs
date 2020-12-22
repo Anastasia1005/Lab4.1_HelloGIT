@@ -10,7 +10,14 @@ namespace HelloGIT
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
+            Console.Write("Ведите число B: ");
+            int B = Enter_B();
+        }
+
+        static int Enter_B()
+        {
+            Console.Write("Введите число B: ");
+            return Convert.ToInt32(Console.ReadLine());
         }
     }
 }

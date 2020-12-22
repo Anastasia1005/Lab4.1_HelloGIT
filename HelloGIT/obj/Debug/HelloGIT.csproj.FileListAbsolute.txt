@@ -1,0 +1,7 @@
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\bin\Debug\HelloGIT.exe.config
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\bin\Debug\HelloGIT.exe
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\bin\Debug\HelloGIT.pdb
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\obj\Debug\HelloGIT.csprojAssemblyReference.cache
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\obj\Debug\HelloGIT.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\obj\Debug\HelloGIT.exe
+D:\Programming\C#\Labs\Lab4.1_HelloGIT\HelloGIT\obj\Debug\HelloGIT.pdb
