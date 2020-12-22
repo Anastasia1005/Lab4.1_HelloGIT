@@ -20,6 +20,14 @@ namespace HelloGIT
             Console.Write("Введите номер пункта меню: ");
 
             Console.ReadKey();
+            Console.Write("Ведите число B: ");
+            int B = Enter_B();
+        }
+
+        static int Enter_B()
+        {
+            Console.Write("Введите число B: ");
+            return Convert.ToInt32(Console.ReadLine());
         }
 
         static int Enter_A()
