@@ -19,6 +19,7 @@ namespace HelloGIT
 
             Console.Write("Введите номер пункта меню: ");
 
+
             Console.ReadKey();
         }
 
