@@ -45,5 +45,10 @@ namespace HelloGIT
         {
             return A - B;
         }
+
+        int Multiplication(int A, int B)
+        {
+            return A * B;
+        }
     }
 }
